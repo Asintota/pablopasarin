@@ -1,4 +1,4 @@
----
+
 title:  "Animaciones matemáticas"
 layout: post
 
