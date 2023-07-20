@@ -1,5 +1,5 @@
 ---
-title: "Temario de Oposiciones de Matemáticas"
+title: "Animaciones matemáticas"
 layout: post
 ---
 
