@@ -1,6 +1,7 @@
-
-title:  "Animaciones matemáticas"
+---
+title: "Temario de Oposiciones de Matemáticas"
 layout: post
+---
 
 [Manim][manim] es una librería de Python con la que puedes crear animaciones como las que aparecen en mi canal de [Youtube][youtube]
  siguientes animaciones fueron echas con la librería de Python de Manim 
