@@ -8,7 +8,7 @@ layout: page
     <div style="flex: 33%; padding: 10px;">
         ## Intereses
 
-        - Ramas de la ingeniería: mecánica, informática, aeronáutica,     automática, electrotecnia...
+        ### Ramas de la ingeniería: mecánica, informática, aeronáutica,     automática, electrotecnia...
         - Modelización matemática. 
         - Programación.
         - Resolución de problemas.
