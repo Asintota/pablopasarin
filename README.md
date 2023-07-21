@@ -3,7 +3,6 @@ title: "Acerca de"
 permalink: "/about/"
 layout: page
 ---
-# Acerca de 
 
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 33%; padding: 10px;">
