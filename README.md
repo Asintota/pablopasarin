@@ -35,7 +35,7 @@ layout: page
     <div style="flex: 33%; padding: 10px;">
         ## Experiencia Laboral
 
-        ### [Fusion for Energy] - [Broader Approach Engineering Support Intership, Max Plank Institute] (2019-2020)
+        ### [Fusion for Energy] - [Broader Approach Engineering Support Internship, Max Plank Institute] (2019-2020)
 
         ### [Xunta de Galicia] - [Profesor de Matemáticas ESO y Bachillerato] (2022-2023)
     </div>
