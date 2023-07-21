@@ -21,8 +21,9 @@ layout: page
     <div style="flex: 33%; padding: 10px;">
         <h3> Educación </h3>
         <ul>
-          <li>Grado en Ingeniería Mecánica </li>
-            <span style="color: gray; font-size: 0.8em;">Escuela de Ingeniería Industrial UVigo (2013 - 2017)<\span>
+          <li>Grado en Ingeniería Mecánica</li>
+          <hr style="border: none; border-top: 1px solid gray;">
+          <span style="color: gray; font-size: 0.8em;">Escuela de Ingeniería Industrial UVigo (2013 - 2017)</span>
           <li></li>
           <li></li>
           <li></li>
