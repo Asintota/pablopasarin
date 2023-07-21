@@ -22,7 +22,7 @@ layout: page
         <h3> Educación </h3>
         <ul>
           <li>Grado en Ingeniería Mecánica</li>
-          <span style="color: gray; font-size: 0.8em;">Escuela de Ingeniería Industrial UVigo (2013 - 2017)</span>
+           <div style="color: gray; font-size: 0.8em;">Escuela de Ingeniería Industrial UVigo (2013 - 2017)</div>
           <li>Máster en Matemática Industral</li>
           <span style="color: gray; font-size: 0.8em;">Facultad de Matemáticas USC (2017 - 2019)</span>
           <li>Máster de Profesorado en ESO, Bachillerato, FP y Enseñanza de Idiomas</li>
