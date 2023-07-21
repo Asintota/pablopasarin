@@ -24,21 +24,16 @@ layout: page
           <li>Grado en Ingeniería Mecánica</li>
           <hr style="border: none; border-top: 1px solid gray;">
           <span style="color: gray; font-size: 0.8em;">Escuela de Ingeniería Industrial UVigo (2013 - 2017)</span>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-        
-        
-
-        
-        ### [Máster en Matemática Industral] - [Facultad de Matemáticas USC] (2017 - 2019)
-        ### [Máster de Profesorado en ESO, Bachillerato, FP y Enseñanza de Idiomas] - [Facultad de las Ciencias del Mar UVigo] (2020 - 2021)
-
-        ### [Concurso-oposición a los cuerpos de profesores de enseñanza secundaria de Matemáticas] - [Xunta de Galicia] (2022)
-        
-      
+          <li>Máster en Matemática Industral</li>
+          <hr style="border: none; border-top: 1px solid gray;">
+          <span style="color: gray; font-size: 0.8em;">Facultad de Matemáticas USC (2017 - 2019)</span>
+          <li>Máster de Profesorado en ESO, Bachillerato, FP y Enseñanza de Idiomas</li>
+          <hr style="border: none; border-top: 1px solid gray;">
+          <span style="color: gray; font-size: 0.8em;">Facultad de las Ciencias del Mar UVigo (2020 - 2021)</span>
+          <li>Concurso-oposición a los cuerpos de profesores de enseñanza secundaria de Matemáticas</li>
+          <hr style="border: none; border-top: 1px solid gray;">
+          <span style="color: gray; font-size: 0.8em;">Xunta de Galicia (2022)</span>        
+        </ul>     
     </div>
     <div style="flex: 33%; padding: 10px;">
         ## Experiencia Laboral
