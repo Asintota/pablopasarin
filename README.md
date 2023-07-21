@@ -34,8 +34,8 @@ layout: page
     <div style="flex: 33%; padding: 10px;">
         <h3>Experiencia Laboral</h3>
         <ul>
-          <li>Broader Approach Engineering Support Internship, Max Plank Institute</li>
-          <div style="color: gray; font-size: 0.8em;">Fusion for Energy (2019-2020)</div>
+          <li>Broader Approach Engineering Support Internship</li>
+          <div style="color: gray; font-size: 0.8em;">Fusion for Energy at Max Planck Institute for Plasma Physics (2019-2020)</div>
           <li>Profesor de Matemáticas ESO y Bachillerato</li>
           <div style="color: gray; font-size: 0.8em;">Xunta de Galicia (2022-2023)</div>
         </ul>       
