@@ -6,20 +6,21 @@ layout: page
 
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 33%; padding: 10px;">
-        <h2> Intereses </h2>
-
-        ### Ramas de la ingeniería: mecánica, informática, aeronáutica,     automática, electrotecnia...
-        - Modelización matemática. 
-        - Programación.
-        - Resolución de problemas.
-        - Educación
-        - Idiomas: inglés y alemán. 
-        - Música
-        - Deporte
-      
+        <h3> Intereses </h3>
+        <ul>
+          <li>Ramas de la ingeniería: mecánica, informática, aeronáutica, automática, electrotecnia...</li>
+          <li>Modelización matemática. </li>
+          <li>Programación.</li>
+          <li>Resolución de problemas.</li>
+          <li>Educación</li>
+          <li>Idiomas: inglés y alemán. </li>
+          <li>Música</li>
+          <li>Deporte</li>
+        </ul>
     </div>
     <div style="flex: 33%; padding: 10px;">
-        ## Educación
+        <h3> Educación </h3>
+        
         
         ### [Grado en Ingeniería Mecánica] - [Escuela de Ingeniería Industrial UVigo] (2013 - 2017)
 
