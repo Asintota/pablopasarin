@@ -6,7 +6,7 @@ layout: page
 
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 33%; padding: 10px;">
-        ## Intereses
+        <h2> Intereses </h2>
 
         ### Ramas de la ingeniería: mecánica, informática, aeronáutica,     automática, electrotecnia...
         - Modelización matemática. 
